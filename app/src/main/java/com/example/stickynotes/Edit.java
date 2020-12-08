@@ -25,6 +25,8 @@ public class Edit extends AppCompatActivity {
     Note note;
     NoteDatabase db;
 
+
+  //  jhkjh
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
