@@ -1,4 +1,4 @@
 # Stickynotes
 
 
-deep ![img](https://user-images.githubusercontent.com/75658978/101485966-f6da5400-3981-11eb-8117-9c21666edb59.png)
+deep ![img](https://user-images.githubusercontent.com/75658978/101522897-dc1dd480-39ad-11eb-8662-d0fd4993ea6d.png)
