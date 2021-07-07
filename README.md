@@ -3,7 +3,25 @@ This is the Basic Note Taking Application. You Can Create Note By clicking the P
 
 App Link :- https://github.com/deepakkushwha/Stickynotes/commit/831a9ec2e5e2b8400e17d8c1fd3e277bf50e6c77
 
-Main Activity ![img](https://user-images.githubusercontent.com/75658978/101522897-dc1dd480-39ad-11eb-8662-d0fd4993ea6d.png) 
-Create Note Activity ![img](https://user-images.githubusercontent.com/75658978/101522930-e5a73c80-39ad-11eb-9ed2-8118c88755e4.png)
-Delete Activity ![img](https://user-images.githubusercontent.com/75658978/101522935-e93ac380-39ad-11eb-9402-f62f47744f90.png)
-Edit Activity ![img](https://user-images.githubusercontent.com/75658978/101522939-eb048700-39ad-11eb-9767-4309099e3e0e.png)
+<h1 align="center">
+<img align="center" src="https://user-images.githubusercontent.com/75658978/101522897-dc1dd480-39ad-11eb-8662-d0fd4993ea6d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+
+</h1>
+
+<h1 align="center">
+<img align="center" src="https://user-images.githubusercontent.com/75658978/101522930-e5a73c80-39ad-11eb-9ed2-8118c88755e4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+
+</h1>
+
+<h1 align="center">
+<img align="center" src="https://user-images.githubusercontent.com/75658978/101522935-e93ac380-39ad-11eb-9402-f62f47744f90.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+
+</h1>
+
+
+<h1 align="center">
+<img align="center" src="https://user-images.githubusercontent.com/75658978/101522939-eb048700-39ad-11eb-9767-4309099e3e0e.png
+" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+
+</h1>
+
