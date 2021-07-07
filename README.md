@@ -20,8 +20,7 @@ App Link :- https://github.com/deepakkushwha/Stickynotes/commit/831a9ec2e5e2b840
 
 
 <h1 align="center">
-<img align="center" src="https://user-images.githubusercontent.com/75658978/101522939-eb048700-39ad-11eb-9767-4309099e3e0e.png
-" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
+<img align="center" src="https://user-images.githubusercontent.com/75658978/101522939-eb048700-39ad-11eb-9767-4309099e3e0e.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="500" />
 
 </h1>
 
